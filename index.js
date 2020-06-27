@@ -25,7 +25,7 @@ color2.addEventListener('input',changeBackground)
 window.onload = function (){
     changeBackground()
          
-         console.log("So curious! You found me here. Tweet me @jeafreezy and mail me: jolaiya@gmail.com. Let\'s work together! ")
+         console.log("So curious! You found me here. Tweet me @jeafreezy and mail me: jolaiyaemmanuel@gmail.com. Let\'s work together! ")
 }
 
 
