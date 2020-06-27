@@ -1,0 +1,33 @@
+
+
+body{  
+     background-color: darkcyan;
+    font-family: fantasy;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+    color: rgba(0, 0, 0, 0.5);
+    background: linear-gradient(to right,red,yellow);
+
+}
+
+
+h1,h2{
+
+    font-weight: 1000;
+}
+
+h3{
+    font-family: fantasy;
+    text-align: center;
+    text-transform: none;
+    letter-spacing: .1em;
+}
+
+button{
+    padding: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    color: chocolate;
+}
