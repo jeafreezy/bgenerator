@@ -1,10 +1,4 @@
-console.log("
-         
-   +++++++++++++++++++++++++++++++++++++++++++++
-   So curious! You found me here. Tweet me @jeafreezy and mail me: jolaiya@gmail.com. Let\'s work together!
-   +++++++++++++++++++++++++++++++++++++++++++++
-"
-)
+
 var h3= document.querySelector('h3');
 var color1=document.querySelector('.color1');
 var color2 = document.querySelector('.color2');
@@ -30,6 +24,8 @@ color2.addEventListener('input',changeBackground)
 
 window.onload = function (){
     changeBackground()
+         
+         console.log("So curious! You found me here. Tweet me @jeafreezy and mail me: jolaiya@gmail.com. Let\'s work together! ")
 }
 
 
